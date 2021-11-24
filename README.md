@@ -1,6 +1,12 @@
 ## Saifeddine Farjallah
 I'm a  GIS Specialist 
 
+### Education
+
+Engineering in Natural Ressources Management 
+MA in Geomatics
+
+
 ### Hi there 👋
 - 👯 I’m looking to collaborate on ...
 <!--
