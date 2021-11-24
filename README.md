@@ -2,8 +2,8 @@
 I'm a  GIS Specialist 
 
 ### Education
-- 👯  Engineering in Natural Ressources Management 
-- 👯  MA in Geomatics 
+- 👯  **Engineering** in _Natural Ressources Management_
+- 👯  **MA** in _Geomatics_
 
 
 ### Hi there 👋
