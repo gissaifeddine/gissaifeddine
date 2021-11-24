@@ -7,7 +7,7 @@ I'm a  GIS Specialist
 
 
 ### Hi there 👋
-...
+🌱 I’m currently learning ...
 <!--
 **gissaifeddine/gissaifeddine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
